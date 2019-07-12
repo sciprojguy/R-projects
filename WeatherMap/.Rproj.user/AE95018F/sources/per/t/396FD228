@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562943298484.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "309987197",
+    "id" : "396FD228",
+    "lastKnownWriteTime" : 1562963541,
+    "last_content_update" : 1562963541029,
+    "path" : "~/Documents/Latency/nws_api.R",
+    "project_path" : "nws_api.R",
+    "properties" : {
+        "cursorPosition" : "58,2",
+        "scrollLine" : "36",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
